@@ -1,0 +1,6 @@
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\bin\Debug\Geometriska figurer.exe.config
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\bin\Debug\Geometriska figurer.exe
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\bin\Debug\Geometriska figurer.pdb
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\obj\Debug\Geometriska figurer.csprojResolveAssemblyReference.cache
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\obj\Debug\Geometriska figurer.exe
+D:\Projects\1dv402-kn222gp-2-3-geometriska-figurer\Geometriska figurer\obj\Debug\Geometriska figurer.pdb
